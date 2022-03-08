@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq <filename>
+uniq list
